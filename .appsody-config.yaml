@@ -1,0 +1,3 @@
+id: "20200420110018.28250059"
+project-name: helloworld
+stack: kabanero/java-spring-boot2:0.3
